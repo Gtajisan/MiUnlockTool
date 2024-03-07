@@ -65,7 +65,7 @@ tool will now merge them automatically
 ### For Mac, Windows, Linux:
 
 1. Install Python3.
-2. Download [MiUnlockTool](https://codeload.github.com/Gtajisan/MiUnlockTool/zip/refs/heads/main) and run it.
+2. Download [MiUnlockTool](https://github.com/Gtajisan/MiUnlockTool/archive/refs/heads/main.zip) and run it.
 
 ### For Android:
 
